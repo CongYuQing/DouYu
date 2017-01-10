@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  DouYuBroadcase
+//  DouYuLive
 //
 //  Created by 丛宇新 on 2017/1/10.
 //  Copyright © 2017年 Eric Cong. All rights reserved.

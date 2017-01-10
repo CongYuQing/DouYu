@@ -1,15 +1,15 @@
 //
-//  DouYuBroadcaseTests.swift
-//  DouYuBroadcaseTests
+//  DouYuLiveTests.swift
+//  DouYuLiveTests
 //
 //  Created by 丛宇新 on 2017/1/10.
 //  Copyright © 2017年 Eric Cong. All rights reserved.
 //
 
 import XCTest
-@testable import DouYuBroadcase
+@testable import DouYuLive
 
-class DouYuBroadcaseTests: XCTestCase {
+class DouYuLiveTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
